@@ -31,7 +31,7 @@ To access this app you will need to do the following:
 
 ## Images
 - Example of what the app generates to htlm
-(/assets/ProtfolioDemo.png)
+![portfolio-generator Screenshot](/assets/ProtfolioDemo.png)
 
 
 
